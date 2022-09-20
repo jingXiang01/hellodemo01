@@ -6,6 +6,7 @@ public class test08 {
         String tar = "Java";
         // 调用方法并输出
         System.out.println(search(str, tar));
+
     }
 
     public static int search(String str, String tar) {
